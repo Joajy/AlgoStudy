@@ -69,7 +69,7 @@
 
 <h3> 2. User</h3>
 
-![user](https://github.com/Joajy/AlgoStudy/assets/86274253/8426cc93-f090-4ceb-b50e-19c3bc0bf056)
+![user](https://github.com/Joajy/AlgoStudy/assets/86274253/5498c632-55c7-4378-a6e9-a75191afc582)
 
 
 <h3> 3. Trip</h3>
@@ -77,6 +77,8 @@
 ![trip](https://github.com/Joajy/AlgoStudy/assets/86274253/2645d536-1308-48a6-a30f-c167c4967f6d)
 
 <h3> 4. HotPlace</h3>
+
+![hotplace (1)](https://github.com/Joajy/AlgoStudy/assets/86274253/97ecb3d6-e0e5-4dd9-bbd2-39caa157118a)
 
 
 <br>
