@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="https://velog.velcdn.com/images/joajy/post/c0778352-4818-4302-90f7-97e5d6243220/image.png">
   <br>
 </p>
 
@@ -54,39 +54,18 @@
   * 핫 플레이스 정보 수정
   * 핫 플레이스 정보 삭제
 
-## 개선된 UseCase Diagram
+## 개선된 ERD Diagram
 
 ## 개선된 Class Diagram
 
 ## 동작 화면
+
 1. User
    
 2. Board
-
 <p align="center">
-GIF Images
-</p>
-
-<br>
-
-## 기술 스택
-
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
-
-<br>
-
-## 구현 기능
-
-### 기능 1
-
-### 기능 2
-
-### 기능 3
-
-### 기능 4
-
+<img src="https://velog.velcdn.com/images/joajy/post/f6fa5f7c-7911-48b3-a2c6-c1f6bcdd0cf5/image.gif">
+  </p>
 <!-- Stack Icon Refernces -->
 
 [js]: /images/stack/javascript.svg
