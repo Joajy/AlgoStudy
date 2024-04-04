@@ -55,6 +55,7 @@
   * 핫 플레이스 정보 삭제
 
 ## 개선된 ERD Diagram
+![image](https://github.com/Joajy/AlgoStudy/assets/86274253/39c472ad-8710-4c39-8e43-122605ca3c25)
 
 ## 개선된 Class Diagram
 
