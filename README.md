@@ -69,6 +69,9 @@
 
 <h3> 2. User</h3>
 
+![user](https://github.com/Joajy/AlgoStudy/assets/86274253/8426cc93-f090-4ceb-b50e-19c3bc0bf056)
+
+
 <h3> 3. Trip</h3>
 
 ![trip](https://github.com/Joajy/AlgoStudy/assets/86274253/2645d536-1308-48a6-a30f-c167c4967f6d)
