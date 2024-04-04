@@ -84,10 +84,27 @@
    <p align="center">
      <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/b294dd10-fd54-4ebb-9455-faa6c97a54dd">
     </p>
-     2-1. Board Detail -> ViewCount, Writer
+     2-2. Board Detail -> ViewCount, Writer
    <p align="center">
      <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/ecd377c5-67ec-48ab-bc81-7d72c3c184bd">
     </p>
+    <br><hr>
+
+<h3>3. Trip & HotPlace </h3>
+  3-1. Travel Map on Trip Page
+   <p align="center">
+     <img src="https://github.com/Joajy/Algorithm_BOJ/assets/86274253/42578e0e-e95d-4532-a29c-ec53ee060dfa">
+    </p>
+  3-2. Search With Tag & KeyWord
+   <p align="center">
+     <img src="https://github.com/Joajy/Algorithm_BOJ/assets/86274253/d9583b95-2905-40f1-bb3f-3cc3bead720b">
+    </p>
+  3-3. Register HotPlace
+   <p align="center">
+       <img src="https://github.com/Joajy/Algorithm_BOJ/assets/86274253/9f6f27da-567e-4253-898e-c42422a0026a">
+    </p>
+    <br><hr>
+    
 <!-- Stack Icon Refernces -->
 
 [js]: /images/stack/javascript.svg
