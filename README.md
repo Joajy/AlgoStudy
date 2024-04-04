@@ -77,6 +77,19 @@
    <p align="center">
      <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/3acbafb4-2dd5-42a1-bf53-4c9d56c16382">
     </p>
+    1-5. Modify User's HotPlace
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/d0500096-f6c3-416d-9940-4e4a816b8193">
+    </p>
+    1-6. Delete User's HotPlace
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/7e4f7fc8-afa2-479f-8740-df96fbe1e5f4">
+    </p>
+    1-7. My Posts' List Up
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/60c9b9c3-759d-4f8d-b05d-9ee44da42bf1">
+    </p>
+    
     <br><hr>
    
 <h3>2. Board</h3>
