@@ -61,11 +61,28 @@
 ## 동작 화면
 
 1. User
+   1-1. Sign Up
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/3e20a253-ed13-4883-969d-d6deaa3647d5">
+    </p>
+   1-2. Log In & Log Out
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/28f210da-9632-4470-8796-46cd75625eda">
+    </p>
+    1-3. Information Find
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/68fbefd2-8f51-4e7d-a790-a9455c32bac5">
+    </p>
+    1-4. Information Modify & Delete
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/3acbafb4-2dd5-42a1-bf53-4c9d56c16382">
+    </p>
+    
    
 2. Board
-<p align="center">
-<img src="https://velog.velcdn.com/images/joajy/post/f6fa5f7c-7911-48b3-a2c6-c1f6bcdd0cf5/image.gif">
-  </p>
+<div align="center">
+  <img src="https://velog.velcdn.com/images/joajy/post/986ffe5b-f153-4a5a-8c8d-9c042274463a/image.gif">
+</div>
 <!-- Stack Icon Refernces -->
 
 [js]: /images/stack/javascript.svg
