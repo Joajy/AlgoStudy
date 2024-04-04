@@ -58,7 +58,16 @@
 ![image](https://github.com/Joajy/AlgoStudy/assets/86274253/39c472ad-8710-4c39-8e43-122605ca3c25)
 
 ## 개선된 Class Diagram
+1. Board
+![board](https://github.com/Joajy/AlgoStudy/assets/86274253/d8ca2630-2cc1-49cc-8dc4-2a98b2f4e7c5)
 
+2. User
+
+3. Trip
+![trip](https://github.com/Joajy/AlgoStudy/assets/86274253/2645d536-1308-48a6-a30f-c167c4967f6d)
+
+4. HotPlace
+5. 
 ## 동작 화면
 
 <h3>1. User</h3>
