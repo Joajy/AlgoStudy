@@ -60,7 +60,7 @@
 
 ## 동작 화면
 
-1. User
+<h3>1. User</h3>
    1-1. Sign Up
    <p align="center">
      <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/3e20a253-ed13-4883-969d-d6deaa3647d5">
@@ -77,12 +77,17 @@
    <p align="center">
      <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/3acbafb4-2dd5-42a1-bf53-4c9d56c16382">
     </p>
-    
+    <br><hr>
    
-2. Board
-<div align="center">
-  <img src="https://velog.velcdn.com/images/joajy/post/986ffe5b-f153-4a5a-8c8d-9c042274463a/image.gif">
-</div>
+<h3>2. Board</h3>
+  2-1. View Board List & Write with Paging
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/b294dd10-fd54-4ebb-9455-faa6c97a54dd">
+    </p>
+     2-1. Board Detail -> ViewCount, Writer
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/ecd377c5-67ec-48ab-bc81-7d72c3c184bd">
+    </p>
 <!-- Stack Icon Refernces -->
 
 [js]: /images/stack/javascript.svg
