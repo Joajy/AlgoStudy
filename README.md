@@ -90,7 +90,7 @@
      <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/60c9b9c3-759d-4f8d-b05d-9ee44da42bf1">
     </p>
     
-    <br><hr>
+<br><hr>
    
 <h3>2. Board</h3>
   2-1. View Board List & Write with Paging
