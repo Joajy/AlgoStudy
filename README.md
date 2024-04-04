@@ -95,14 +95,22 @@
    <p align="center">
      <img src="https://github.com/Joajy/Algorithm_BOJ/assets/86274253/42578e0e-e95d-4532-a29c-ec53ee060dfa">
     </p>
-  3-2. Search With Tag & KeyWord
+  3-2. Search With Tag & Without KeyWord
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/ecd8c4b3-27a1-4d1c-8ce3-3a95cd993d3b">
+    </p>
+  3-3. Search With Tag & KeyWord
    <p align="center">
      <img src="https://github.com/Joajy/Algorithm_BOJ/assets/86274253/d9583b95-2905-40f1-bb3f-3cc3bead720b">
     </p>
-  3-3. Register HotPlace
+  3-4. Register HotPlace
    <p align="center">
        <img src="https://github.com/Joajy/Algorithm_BOJ/assets/86274253/9f6f27da-567e-4253-898e-c42422a0026a">
     </p>
+  3-5. HotPlace List & Detail
+   <p align="center">
+     <img src="https://github.com/Joajy/RepoForUploadImageIntoIssues/assets/86274253/2290555a-eb39-4690-b618-744f7487a054">
+  </p>
     <br><hr>
     
 <!-- Stack Icon Refernces -->
